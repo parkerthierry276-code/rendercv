@@ -94,7 +94,7 @@ dev = [
     'ty>=0.0.5',           # Type checking
     'prek>=0.2.23',        # Run checks before committing (pre-commit alternative)
     'pytest>=9.0.2',       # Run tests
-    'pytest-cov>=7.0.0',   # Coverage plugin for pytest with xdist support
+    'pytest-cov>=7.1.0',   # Coverage plugin for pytest with xdist support
     "pytest-xdist>=3.8.0", # Run tests in parallel
 ]
 docs = [
